@@ -7,3 +7,11 @@ IoT-Open is exactly what the name implies, it is an open sourced repo designed t
 # When can this become useful 
 
 Providing security research as well as making API endpoints known on specific devices can lead to very awesome future security research!
+
+# Supported devices 
+
+| Device name / Manufac | 
+| --------------------- |
+| AppleTV               |
+| AmazonFireTV          |
+| RokuTV                |
