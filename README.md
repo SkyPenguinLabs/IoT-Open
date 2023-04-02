@@ -1,4 +1,4 @@
-![Alt text](https://github.com/SkyPenguin-Solutions/SkyLineConfigurationEngine/blob/main/SLC.png?raw=true "Title")
+![Alt text](https://github.com/SkyPenguin-Solutions/IoT-Open/blob/main/IoT%20Open%20Sky%20Penguin%20Solutions.png?raw=true "Title")
 
 # Description 
 
